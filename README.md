@@ -38,9 +38,10 @@ go install github.com/tomnomnom/waybackurls@latest
 
 ```bash
 chmod +x wfuzz-auto.sh
+```
+```bash
 ./wfuzz-auto.sh target.com
 ```
-
 ---
 
 ## 🔹 Output
