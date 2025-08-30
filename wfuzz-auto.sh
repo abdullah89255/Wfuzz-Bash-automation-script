@@ -1,6 +1,4 @@
 #!/bin/bash
-# Wfuzz Automation Script (Default Output Directory)
-# Author: ChatGPT Assistant
 
 if [ -z "$1" ]; then
     echo "Usage: $0 <target_url>"
